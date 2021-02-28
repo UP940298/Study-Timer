@@ -1,21 +1,46 @@
 body {
     background-color: #758283;
-    font: #FF6666;
 }
 
 #circle {
     border: 5px solid black;
-    height: 100px;
-    width: 100px;
+    height: 500px;
+    width: 500px;
     border-radius: 50%;
+    margin: auto;
 }
 
 #title {
     text-align: center;
-    font-size: large;
+    font-size: 80px;
+    margin-top: 0;
 }
 
-#timer {
+#mDiv {
+    font-size: 150px;
     text-align: center;
-    font-size: large;
+    float: left;
+    margin-top: 8%;
+    margin-left: 16%;
+    color: #FF6666;
+}
+
+#sDiv {
+    font-size: 150px;
+    text-align: center;
+    float: left;
+    margin-top: 8%;
+    color: #FF6666;
+}
+
+#start {
+    font-size: 50px;
+    margin-left: 40%;
+    margin-top: 4%;
+}
+
+#cDiv {
+    float: left;
+    margin-top: 8%;
+    font-size: 150px;
 }
