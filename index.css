@@ -4,7 +4,7 @@ body {
 }
 
 #circle {
-    border: 5px;
+    border: 5px solid black;
     height: 100px;
     width: 100px;
     border-radius: 50%;
@@ -13,5 +13,9 @@ body {
 #title {
     text-align: center;
     font-size: large;
-    
+}
+
+#timer {
+    text-align: center;
+    font-size: large;
 }
