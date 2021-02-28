@@ -1,5 +1,6 @@
 body {
     background-color: #758283;
+    font: #FF6666;
 }
 
 #circle {
@@ -7,4 +8,10 @@ body {
     height: 100px;
     width: 100px;
     border-radius: 50%;
+}
+
+#title {
+    text-align: center;
+    font-size: large;
+    
 }
