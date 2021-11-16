@@ -34,13 +34,39 @@ body {
 }
 
 #start {
-    font-size: 50px;
-    margin-left: 40%;
-    margin-top: 4%;
+    font-size: 42px;
+    display: block;
+    margin-left: 43%;
+    margin-top: 1%;
+}
+
+#end {
+    font-size: 42px;
+    display: block;
+    margin-left: 51%;
+    margin-top: -4%;
 }
 
 #cDiv {
     float: left;
     margin-top: 8%;
     font-size: 150px;
+}
+
+#studyMin {
+    display: block;
+    margin-left: 39%;
+    height: 50px;
+    margin-top: 5%;
+    font-size: 42px;
+    width: 120px;
+}
+
+#breakMin {
+    display: block;
+    margin-left: 52%;
+    height: 50px;
+    margin-top: -4%;
+    font-size: 42px;
+    width: 120px;
 }
